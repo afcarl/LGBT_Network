@@ -1,6 +1,7 @@
 # LGBT Network 
 
 Visualization can be found [here](https://priyakhokher.github.io/LGBT_Network/)
+Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network)
 
 The idea is to see which topics are connected to each other the most and how?. Developing topics in an article/corpus and seeing how
 semantically they are related to other topics in my opinion (is a better way of storing data- CONNECTED FORM) and
