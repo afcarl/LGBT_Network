@@ -57,5 +57,5 @@ Procedure
  'truvada': 0.0,
  'viral': 0.0}
 
-7. Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network){:target="_blank"}
+7. Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network)
 8. Any suggestions would be appreciated. Editing on the main html file is ongoing.
