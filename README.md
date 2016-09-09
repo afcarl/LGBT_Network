@@ -1,6 +1,7 @@
 # LGBT Network 
 
-Visualization can be found [here](https://priyakhokher.github.io/LGBT_Network/){:target="_blank"}
+Visualization can be found [here](https://priyakhokher.github.io/LGBT_Network/)
+<a href="https://priyakhokher.github.io/LGBT_Network/" target="_blank">Hello, world!</a>
 Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network){:target="_blank"}
 
 The idea is to see which topics are connected to each other the most and how?. Developing topics in an article/corpus and seeing how
