@@ -1,7 +1,7 @@
 # LGBT Network 
 
-Visualization can be found [here](https://priyakhokher.github.io/LGBT_Network/)
-Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network)
+Visualization can be found [here](https://priyakhokher.github.io/LGBT_Network/){:target="_blank"}
+Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network){:target="_blank"}
 
 The idea is to see which topics are connected to each other the most and how?. Developing topics in an article/corpus and seeing how
 semantically they are related to other topics in my opinion (is a better way of storing data- CONNECTED FORM) and
@@ -57,5 +57,5 @@ Procedure
  'truvada': 0.0,
  'viral': 0.0}
 
-7. Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network)
+7. Please find the code+date [here](https://github.com/priyakhokher/SemanticWebProjects/tree/master/BF/LGBT_Network){:target="_blank"}
 8. Any suggestions would be appreciated. Editing on the main html file is ongoing.
